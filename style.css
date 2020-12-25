@@ -1,0 +1,132 @@
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  margin-right: 15%;
+  padding: 14px 16px; 
+  font-family: "Arial, Helvetica, sans-serif;
+  font-size: 17px;
+}
+.Personal-information{
+
+ 
+  margin: auto;
+  position: static;
+  width: 60%;
+  border: 3px solid darkgray;
+  padding: 10px;
+  font-family:Tahoma, sans-serif;
+   background-image: url("background3.jpg");
+
+ 
+
+}
+
+    
+
+.Interest-in-IT{
+  position: static;
+   text-align: centre;
+  font-family:Tahoma, sans-serif;
+  border-top:3px solid darkgray;;
+  border-bottom:3px solid darkgray;;
+  background-image: url("background3.jpg");
+
+}
+
+
+.Ideal-job{
+position: static;
+text-align: center;
+font-family:Tahoma, sans-serif;
+border-top:3px solid darkgray;;
+border-bottom:3px solid darkgray;;
+ background-image: url("background3.jpg");
+
+}
+
+.Personal-profile{
+position: static;
+text-align: center;
+font-family: Tahoma, sans-serif;
+border-top: 3px solid darkgray;;
+border-bottom:3px solid darkgray;;
+ background-image: url("background3.jpg");
+}
+
+
+
+header {
+    background-image: url("background.jpg");
+    font-family: font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+ 
+}
+
+
+body{
+
+ background-image: url("background.jpg");
+ font-size: 150%;
+ position: absolute;
+ text-align: center;
+ 
+}
+
+
+
+
+.Personal-information img {
+	
+        width: 30%;
+        border-radius: 50%;
+        box-shadow: darkgray;
+ 	font-family:Tahoma, sans-serif;
+    }
+
+.project-Idea{
+
+position: static;
+text-align: center;
+font-family: Tahoma, sans-serif;
+border-top: 3px solid darkgray;;
+border-bottom:3px solid darkgray;;
+ background-image: url("background3.jpg");
+text-align: center;
+
+}
+
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: black
+}
+
+
+
+
+
+
