@@ -83,8 +83,7 @@ Test 1: Myers-Briggs test
 
 Website: https://www.16personalities.com
  
-Result:
- 
+Result: Advocate
  
  
 Test 2: What is you learning style?
@@ -102,11 +101,6 @@ Test 3: Big 5 Personality Test
  
 Website: https://my-personality-test.com
  
-
-
-
-Results:
-
 
   
 What do the results of these tests mean for you?
@@ -183,16 +177,24 @@ Tools and Technologies and technologies required for this project are
 Skills Required 
 
 In order to complete this Pi home assistant successfully the following skills will be required: 
-●    Set up and use of the Raspberry Pi including using and setting up the Raspbian Operating system (Feasibly: Highly Possible as there are several tutorials online)
-●      Using a Unix operating system (Feasibly: Highly Possible due to online tutorials)
-●     Basic/Mid-level use of the Terminal (Feasibility: Possible, learning of Linux commands required)
-●      Connecting additional hardware and components to the Raspberry PI (Feasibility: Highly Possible – Diagram of Raspberry Pi Required e.g., where to connect camera and sensor)
-●      Integrating developed apps with one another (Feasibility: maybe possible depending on the app libraries that are available)
-●      Use of Python programming language Feasibility: maybe possible depending on the app requirements and skill level required)
+
+Set up and use of the Raspberry Pi including using and setting up the Raspbian Operating system (Feasibly: Highly Possible as there are several tutorials online)
+
+•  Using a Unix operating system (Feasibly: Highly Possible due to online tutorials)
+
+•  Basic/Mid-level use of the Terminal (Feasibility: Possible, learning of Linux commands required)
+
+• Connecting additional hardware and components to the Raspberry PI (Feasibility: Highly Possible – Diagram of Raspberry Pi Required e.g., where to connect 
+camera and sensor)
+
+• Integrating developed apps with one another (Feasibility: maybe possible depending on the app libraries that are available)
+
+• Use of Python programming language Feasibility: maybe possible depending on the app requirements and skill level required)
 
 
 Outcome
- If the project is successful, the outcome of this project will be a working personal assistant. Instead of using multiple devices individuals that are at home or working from home will be able to:
+
+If the project is successful, the outcome of this project will be a working personal assistant. Instead of using multiple devices individuals that are at home or working from home will be able to:
 •	Control home lighting using a smart globe
 •	See their calendar
 •	Make notes with a keyboard and mouse
