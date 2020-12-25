@@ -133,6 +133,8 @@ I should be taking other colleagues' beliefs and goals into account when forming
 
 ### Project Idea – Raspberry PI Assistant
  
+ ![image](https://user-images.githubusercontent.com/54587856/103129279-49d73980-46ec-11eb-950f-fc183f0563d3.png)
+
 
 
 **Overview**
