@@ -1,6 +1,7 @@
 
 
-## Assignment 1
+## Ayub Khayre (S3686323)- COSC2196 Introduction to Information Technology
+
 
 ![image](https://user-images.githubusercontent.com/54587856/103128814-daad1580-46ea-11eb-92e1-85cbe2c0e76f.png)
 
