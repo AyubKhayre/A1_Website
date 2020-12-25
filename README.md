@@ -29,7 +29,7 @@ Interesting Fact about myself: I'm ambidextrous
 ### Interest in IT
  
  
-What is your interest in IT?
+**What is your interest in IT?**
 
 I am interested in IT because:
 
@@ -37,7 +37,7 @@ I am interested in IT because:
  - Most human use technology every day without knowing how it works I want to understand how a how a network or program is constructed.
 - The future of IT is limitless and always changing, it excites me to be a part of a fast-paced industry where I will be learning constantly
 
-When did your Interest in IT start?
+**When did your Interest in IT start?**
 
 I feel as though I’ve always been fascinated by technology and how computer work. I believe my interest in IT was sparked when I was ten years old when I built my first computer, I remember connecting the Peripherals and CPU to the mother board, after ensuring that the pins were connected the computer came to life.
 Furthermore, two years after taking up the role of a Telecommunications technician I understood the basic construct of a network and configuration of router and switches. I wanted to study information technology to learn more about IT.
@@ -103,21 +103,21 @@ Website: https://my-personality-test.com
  
 
   
-What do the results of these tests mean for you?
+**What do the results of these tests mean for you?**
  
 Each of these tests provide an insight into my personality, leadership and learning
--        Test 1: Myers-Briggs test:
+
+-   Test 1: Myers-Briggs test:
 This test provided the most insight into my personality, regarding workplace habits the work that I’m doing must align with my “Values, Principals and beliefs”. Meaning my work must promote some type of growth.
 I will be good at working in a group and diffusing bad situations, As an Advocate hierarchy will not be important, I will help my colleagues if they require assistance, however, “there is a risk that others will take advantage of my desire to help.”
--        Test 2: What is you learning style?
+
+-   Test 2: What is you learning style?
 Although this test didn’t provide as many details as the other two test it did confirm that I am a visual learner. Meaning I learn best using visual method such as drawing out diagrams using colors and writing down key words and information. The results in this test mean that I must implement visual techniques to learn efficiently.
 
-
-
--        Test 3: Big 5 Personality Test:
+-  Test 3: Big 5 Personality Test:
 For this test I received the personality type “The Traditionalist” ISTJ. This test revealed that I am very “Traditional” and “Detailed oriented”. I scored the highest for sensing (59%) meaning that I am realistic and practical with my expectations. This means that I will be great with feasibility of a project when it comes to time and implementation.
 
-How do you think these results may influence your behaviour in a team?
+**How do you think these results may influence your behaviour in a team?**
 
  In a team regardless of my position I will be a team player, assisting my teammates when and if necessary. I will be able to mediate task and solve both group and project-based issues. 
  How should you take this into account when forming a team?
@@ -131,17 +131,17 @@ I should be taking other colleagues' beliefs and goals into account when forming
  
 
 
-Overview
+**Overview**
 
 Technology is used throughout our lives in many different forms. Many of ourselves find that we use multiple pieces Technology when at home. The Raspberry Pi assistant will be a very modern but user-friendly piece of technology that will add something to one’s life rather than being another device. 
 The Pi home assistant will be a Raspberry Pi that’s connected to a small screen. It will need to be mobile enough to carry around, the PI assistant will display the users google calendar it will display the weather forecast, allow the user to make notes and control home equipment such as smart globes.
  
 
-Motivation
+**Motivation**
 
 The idea of a “PI assistant” is that connectivity is the new normal. My vision is to create a version of a Personal assistant that can help the end user navigate their lives at home especially during this COVID 19 Pandemic were working from home has become the new norm. The Pi assistant will help anyone with the days task ahead. With the use of the raspberry pi, we want to create a small “assistant” that can be developed further in the future to fit a range of features at an affordable price. Using a Raspberry Pi ease of development and affordability will not be an issue.
  
-Description
+**Description**
 
 The Raspberry Pi assistant will be a personal home assistant that will assist users that are working from home during and after this COVID – 19 period.  
  
@@ -165,7 +165,7 @@ The Raspberry Pi home assistant will be a time saver for its end users, displayi
  
 
 
-Tools and Technologies and technologies required for this project are
+**Tools and Technologies and technologies required for this project are:**
 
 •	A Raspberry Pi: Small single board computer that’s wireless capable, it will be the main piece of hardware for this project. To enhance usability and reliability the minimum Raspberry Pi Version that will be used will be the Raspberry Pi 3 B+ 
 •	Raspberry Pi Infra-Red camera sensor module: An Infra-Red camera attachment for the raspberry pi, this will capture motion  
@@ -174,7 +174,7 @@ Tools and Technologies and technologies required for this project are
 •	Raspbian: A version of the Debian Linux distribution which has been made for the Raspberry Pi, used as the OS for this project (Raspbian.org 2019)
 •	Screen: small to mid-sized screen to display OS
 
-Skills Required 
+**Skills Required**
 
 In order to complete this Pi home assistant successfully the following skills will be required: 
 
@@ -192,7 +192,7 @@ camera and sensor)
 • Use of Python programming language Feasibility: maybe possible depending on the app requirements and skill level required)
 
 
-Outcome
+**Outcome**
 
 If the project is successful, the outcome of this project will be a working personal assistant. Instead of using multiple devices individuals that are at home or working from home will be able to:
 •	Control home lighting using a smart globe
